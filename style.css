@@ -1,0 +1,12 @@
+body
+{
+text-align:center;
+background-color:green;
+}
+nav
+{
+    border-color:navy;
+    border-style:solid;
+    background-color: blue;
+    border-width:120px;
+}
